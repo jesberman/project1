@@ -1,3 +1,3 @@
-$('.carousel').carousel({
+$('.slide-wrapper').carousel({
     pause: "false"
 });

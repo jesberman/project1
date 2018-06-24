@@ -22,3 +22,23 @@ color: white;
 z-index: 4;
 position: relative;
 }
+
+
+.carousel-item {
+
+    height: auto;
+    width: auto;
+    background-color: blue;
+    position: relative;
+    bottom: 0px;
+}
+
+
+
+
+
+#location {
+
+    position: relative;
+    bottom: 350px;
+}
